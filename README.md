@@ -1,5 +1,11 @@
 # Note App (Provider)
 
+DEMO:
+
+
+https://github.com/user-attachments/assets/5fca4fef-4b42-4d60-8c30-2eb3722045c4
+
+
 Simple Flutter notes app demonstrating app-wide state management with Provider and ChangeNotifier.
 
 Features
